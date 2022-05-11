@@ -1184,7 +1184,9 @@ Function Operators
   Functions that do not have formal parameters may still access
   implicit parameters on the stack (e.g. examples 2,4,6).
 
-  Examples:
+  Functions may call one another but not recursively.
+
+  Example User-Defined Functions:
 
   1.  midpoint(a,b) = a b + 2 /
   2.  midpoint = + 2 /
@@ -1194,7 +1196,7 @@ Function Operators
   6.  percentChange = swap / 1 -
   7.  avg = count ->_sum ++ _sum /
 
-  Functions may call one another but not recursively.
+
 
 HELP
   $here =~ s/^  //mg;
