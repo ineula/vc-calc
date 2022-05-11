@@ -1231,7 +1231,7 @@ exit main();
 
 =head1 COPYRIGHT
 
-  (C) 2002 by Ivan Neulander <ivan@rhythm.com>
+  (C) 2002 by Ivan Neulander <ineula@gmail.com>
 
   All rights reserved. You may distribute this code under the terms
   of either the GNU General Public License or the Artistic License,
